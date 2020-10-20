@@ -1,0 +1,16 @@
+{
+  "name": "rawcloud",
+  "version": "1.0.0",
+  "description": "The website of RawCloud.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "42O",
+    "RawCloud",
+    "VPS"
+  ],
+  "author": "Zile42O",
+  "license": "ISC"
+}
