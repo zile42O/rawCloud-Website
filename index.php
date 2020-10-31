@@ -258,7 +258,7 @@
                         </div>
                         <div class="col-md-6 d-none d-md-block">
                             <div class="copyright-credit">
-                                <p>Made with ☕ by <a href="https://github.com/zile42O">RawCloud™</a></p>
+                                <p>Made with ☕ by <a href="https://github.com/zile42O">RawCloud ™</a></p>
                             </div>
                         </div>
                     </div>
